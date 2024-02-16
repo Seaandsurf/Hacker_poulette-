@@ -17,15 +17,18 @@ Bienvenue dans 'Hacker Pouletteo' - votre formulaire de récupération d'informa
 ## À propos du Projet
 
 L'Application Hacker Poulette est conçue pour les entreprises qui souhaitent récolter des données de leurs utilisateurs. 
+
 C'est en fait un formulaire d'envoi. Les données sont envoyées directement sur une base de données créée sur PhpMyAdmin.
+
 Et cette base de donées est renvoyée sur un dashboard coté admin.
+
 Pendant ma mission de travail de 3 jours, j'ai créé cette application avec mon teamate Jérémy par le biais de notre formation Junior Dev chez BeCode.
 
 ### Construit Avec
 
 - HTML/CSS/JS/PHP/SQL
-- [API OpenWeather](https://openweathermap.org/)
-- [API Unsplash](https://unsplash.com/)
+- [Tailwind](https://openweathermap.org/)
+- [Planet Hoster](https://unsplash.com/)
 - [Chart.js](https://www.chartjs.org/)
 
 ## Commencer
